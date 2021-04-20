@@ -12,16 +12,18 @@ h1{
 small{
     font-weight: bold;
 }
-img{
-    
-    max-width: 450px;
-    display: block;
-    margin: auto;
-}
 ul li{
     padding:0.5rem;
 }
 div .b{
     list-style-type: none;
 
+}
+.head-img {
+
+    width:100%;
+    max-width: 450px;
+    height:auto;
+    display: block;
+    margin: auto;
 }
